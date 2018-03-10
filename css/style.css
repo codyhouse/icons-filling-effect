@@ -36,8 +36,6 @@ header h1 {
   display: table-cell;
   vertical-align: middle;
   text-align: center;
-  width: 90%;
-  max-width: 1170px;
   color: #699ec0;
   font-size: 2.6rem;
 }
