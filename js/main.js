@@ -1,4 +1,5 @@
 (function(){
+    // Icons Filling Effect - by CodyHouse.co
 	function IconsFilling( element ) {
 		this.element = element;
 		this.blocks = this.element.getElementsByClassName("js-cd-service");
